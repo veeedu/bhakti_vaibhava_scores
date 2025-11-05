@@ -1,0 +1,15 @@
+{
+  "bhakti_shastri": {
+    "test1": 0,
+    "test2": 0,
+    "final": 0
+  },
+  "essays": {
+    "submitted": 0,
+    "graded": 0
+  },
+  "sloka_test": {
+    "total": 0,
+    "passed": 0
+  }
+}
