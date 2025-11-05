@@ -1,0 +1,13 @@
+{
+  "name": "Nitay",
+  "id": "nitay",
+  "joined_on": null,
+  "contact": {
+    "email": "",
+    "phone": ""
+  },
+  "progress": {
+    "level": "beginner",
+    "total_points": 0
+  }
+}
